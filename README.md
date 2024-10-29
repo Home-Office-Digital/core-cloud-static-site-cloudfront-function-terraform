@@ -1,4 +1,4 @@
-# Core Cloud static site Cloudfront function terrafor modulem 
+# Core Cloud static site Cloudfront function terrafor module 
 
 This repository contains the terraform modules for the static site.
 
